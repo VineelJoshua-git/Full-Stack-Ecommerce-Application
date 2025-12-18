@@ -1,4 +1,5 @@
-
+This project was modified locally for learning Git workflow
+Hello CSE-J
 # E-Commerce Application
 
 An end-to-end E-Commerce application built using **Spring Boot** and **RESTful APIs** with advanced features for security, usability, and performance.
